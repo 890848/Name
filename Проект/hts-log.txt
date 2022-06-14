@@ -1,0 +1,16 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 14 Jun 2022 16:42:24 at https://ligix.ru/airsoft/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://ligix.ru/airsoft/ -O1 "C:\Мои Web Сайты\Проект" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:42:25	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: https://ligix.ru/airsoft/
+16:42:28	Error: 	Unable to save file C:/Мои Web Сайты/Проект/mc.yandex.ru/metrika/tag.js: No such file or directory
+16:42:28	Warning: 	file not stored in cache due to bogus state (broken size, expected 79548 got 0): https://mc.yandex.ru/metrika/tag.js
+16:42:28	Error: 	"Error when decompressing" (-1) at link https://ligix.ru/css/style.css (from https://ligix.ru/airsoft/)
+16:42:28	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 79548 expected)) at link https://mc.yandex.ru/metrika/tag.js (from https://ligix.ru/airsoft/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 7 seconds : 10 links scanned, 7 files written (376082 bytes overall), 7 files updated [251677 bytes received at 35953 bytes/sec], 213049 bytes transferred using HTTP compression in 3 files, ratio 38%, 1.4 requests per connection
+(2 errors, 3 warnings, 0 messages)

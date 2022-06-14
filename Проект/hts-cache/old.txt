@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+16:41:45	39/39	---M--	200	added ('OK')	text/plain	etag:%2227-58a12c12d6ada%22	https://ligix.ru/robots.txt		(from )
+16:41:45	3525/3525	---MCZ	-1	error ('Error%20when%20decompressing')	text/html	date:Tue,%2014%20Jun%202022%2012:41:45%20GMT	https://ligix.ru/airsoft/	C:/%d0%9c%d0%be%d0%b8%20Web%20%d0%a1%d0%b0%d0%b9%d1%82%d1%8b/%d0%9f%d1%80%d0%be%d0%b5%d0%ba%d1%82/ligix.ru/airsoft/index.html	(from )
